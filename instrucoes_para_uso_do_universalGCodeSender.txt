@@ -1,0 +1,5 @@
+Obs.:
+Para uso do UniversalGcodeSender voce tem que ter instalado o JAVA
+
+Descompacte e der dois cliques sobre o arquivo
+UniversalGCodeSender.jar
