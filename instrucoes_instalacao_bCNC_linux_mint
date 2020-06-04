@@ -1,0 +1,16 @@
+Obs.:
+Eh necessario a instalacao do Python2.
+
+OS:
+Linux Mint 19 MATE
+
+Kernel:
+4.15.0-45-generic
+
+Comandos:
+
+instalacao:
+sudo pip2 install --upgrade bCNC
+
+execucao:
+python2 -m bCNC
